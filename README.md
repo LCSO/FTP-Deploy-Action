@@ -284,3 +284,4 @@ To test this action locally you will need to setup **docker** and **act** to run
 - Install the npm package using `npm install --dev-only @samkirkland/ftp-deploy`
 - Update the `deploy` script in `package.json` with a actual server/username/password
 - You can run the script using the following command `npm run deploy` (run this in the folder that has the `package.json` file)
+
